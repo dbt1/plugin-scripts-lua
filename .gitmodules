@@ -1,0 +1,3 @@
+[submodule "mediathek"]
+	path = plugins/mediathek
+	url = ../plugin-scripts-lua-neutrino-mediathek.git
